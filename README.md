@@ -15,6 +15,6 @@ SoftwareStudio Lab4 2016
 
 #Screenshot
 
-![alt tag](/screenshot1.jpeg)
+![alt tag](/screenshot1.jpg)
 
-![alt tag](/screenshot2.jpeg)
+![alt tag](/screenshot2.jpg)
