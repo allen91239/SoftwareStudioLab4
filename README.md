@@ -15,5 +15,6 @@ SoftwareStudio Lab4 2016
 
 #Screenshot
 
-///
-![alt tag](/csc.png)
+![alt tag](/screenshot1)
+
+![alt tag](/screenshot2)
